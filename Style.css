@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto',sans-serif;
+/* background: linear-gradient(135deg, #ccd2d2 10%, #deeaec 100%); */
+
+}
+#head{
+    text-align: center;
+    font-size: 40px;
+    color: orange;
+    height: 50px;
+    width: 500px;
+    /* background-color:rgb(227, 183, 103); */
+    margin-top: 30px;
+    
+}
+.container{
+    width: 300px;
+    padding: 11px;
+    margin: auto;
+    box-shadow: 0px 3px 3px 3px rgb(164,164,164);
+    margin-top: 50px;
+}
+.container p{
+    font-size: 20px;
+}
+#heading{
+    text-align: center;
+    font-size: 33px;
+}
+input{
+    width: 90%;
+    height: 11px;
+    padding: 11px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 3px;
+    margin-top: -22px;
+}
+#calculate{
+    width: 99%;
+    height: 36px;
+    background-color: rgb(0,106,255);
+    color: aliceblue;
+    font-size: 24px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 22px;
+    cursor: pointer;
+}
+#relode{
+    width: 99%;
+    height: 36px;
+    background-color: transparent;
+    color: black;
+    font-size: 22px;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-top: 11px;
+    cursor: pointer;
+
+}
+#bmi{
+    text-align: center;
+    margin-top: 11px;
+}
+#category{
+    text-align: center;
+}
